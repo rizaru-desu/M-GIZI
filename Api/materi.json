@@ -2,31 +2,31 @@
   {
     "title": "Dietetik Penyakit Tidak Menular",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2Fdietetik_penyakit_tidak_menular.png?alt=media&token=ef27dbfd-fb9b-49f5-a0d6-caa7ff6ce554",
-    "index": "http://alter.washi.id/mkep/medikal%20bedah%202/"
+    "index": "http://alter.washi.id/gizi/Dietetik%20Penyakit%20Tidak%20Menular/"
   },
   {
     "title": "Etika Profesi",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2FEtika_Profesi.png?alt=media&token=e5136c7f-7575-4753-a3a7-5b080288afe1",
-    "index": "http://alter.washi.id/mkep/kdm/"
+    "index": "http://alter.washi.id/gizi/Etika%20Profesi/"
   },
   {
     "title": "Konseling Gizi",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2FKonseling%20Gizi.png?alt=media&token=8261eefd-5040-497f-993b-84d00ceabf28",
-    "index": "http://alter.washi.id/mkep/promosi%20kesehatan/"
+    "index": "http://alter.washi.id/gizi/Konseling%20Gizi/"
   },
   {
     "title": "Manajemen Sistem Penyelenggaraan",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2FManajemen%20Sistem%20Penyelenggaraan%20Makan.png?alt=media&token=25edda69-86de-4c4c-8d4a-484701143765",
-    "index": "http://alter.washi.id/mkep/komunitas%20%26%20kelurga/"
+    "index": "http://alter.washi.id/gizi/Manajemen%20Sistem%20Penyelenggaraan/"
   },
   {
     "title": "Sistem Penyelenggaraan Makanan",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2FSistem%20Penyelenggaraan%20Makanan%20Institusi.png?alt=media&token=67441d01-fb75-4b7d-b783-c4efda69a554",
-    "index": "http://alter.washi.id/mkep/gadar/"
+    "index": "http://alter.washi.id/gizi/Sistem%20Penyelenggaraan%20Makanan/"
   },
   {
     "title": "Survey Konsumsi Pangan",
     "images": "https://firebasestorage.googleapis.com/v0/b/materi-gizi.appspot.com/o/data%2Fmateri%2FSurvei%20Konsumsi%20Makanan.png?alt=media&token=9864c54c-080c-42ab-81af-334545264671",
-    "index": "http://alter.washi.id/mkep/gerontik/"
+    "index": "http://alter.washi.id/gizi/Survey%20Konsumsi%20Pangan/"
   }
 ]
